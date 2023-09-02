@@ -1,3 +1,3 @@
 # Excel projects
 
-Text for example.
+Example's text.
